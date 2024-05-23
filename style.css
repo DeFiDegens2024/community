@@ -182,21 +182,11 @@ p {
   transition: background-color 0.3s ease, transform 0.3s ease; 
 }
 
-.join-btn {
-  display: inline-block;
-  /* padding: 2px 20px; */
-  /* background-color: orange; */
-  color: #fff;
-  /* width: 70px;
-  height: 40px; */
-  text-decoration: none;
-  border-radius: 5px;
 
-  /* Add smooth transition effects */
-}
-
-.join-btn *{
+ 
+.join-btn h3{
   font-size: 1em;
+
   margin-top: 7px;
 }
 
@@ -592,7 +582,6 @@ footer {
   margin-top: 0px;
   /* background: linear-gradient(to right, rgba(255, 255, 255, 0.8), rgba(173, 216, 230, 0.8)); background: linear-gradient(to right, rgba(255, 255, 255, 0.8), rgba(173, 216, 230, 0.8), rgba(255, 239, 213, 0.8)); */
 }
-
 .carousel-inner {
   display: flex;
 }
